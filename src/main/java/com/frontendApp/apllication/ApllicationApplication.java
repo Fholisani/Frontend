@@ -19,4 +19,4 @@ public class ApllicationApplication extends SpringBootServletInitializer {
 	public static void main(String[] args) {
 		SpringApplication.run(ApllicationApplication.class, args);
 	}
-}// new code added
+}
